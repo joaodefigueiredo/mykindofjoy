@@ -94,7 +94,7 @@ body > section,
 }
 
 .devider {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .devider i {
@@ -103,18 +103,18 @@ body > section,
 
 .devider:before,
 .devider:after {
-  content: "______________________";
+  content: "__________________";
   color: #515757;
   position: relative;
   bottom: 6px;
 }
 
 .devider:before {
-  right: 10px;
+  right: 0px;
 }
 
 .devider:after {
-  left: 10px;
+  left: 0px;
 }
 
 .mb50 {
@@ -188,7 +188,7 @@ body > section,
 }
 
 .carousel-caption {
-  top: 25%;
+  top: 15%;
 }
 
 .carousel-caption h2 {
@@ -197,7 +197,7 @@ body > section,
 }
 
 .carousel-caption h2 span {
-  font-weight: 800;
+  font-weight: 400;
 }
 
 .carousel-caption h3 {
